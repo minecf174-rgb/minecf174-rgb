@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/KYf44qrG/mine.png" alt="Profile Banner">
+<img src="https://i.postimg.cc/qvdFj0Wz/mine.png" alt="Profile Banner">
 
 ## About Me 
 - I’m a **CE**.
