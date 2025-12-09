@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="./assets/ชื่อไฟล์ของคุณ.png" alt="Profile Banner">
+  <img src="./asset/mine.png" alt="Profile Banner">
 </div>
+
 ## About Me 
 - I’m a **CE**.
 - Ux/Ui Design | Data-Sci.
