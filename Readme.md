@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/qvdFj0Wz/mine.png">
+![GitHub Banner](https://i.postimg.cc/qvdFj0Wz/mine.png)
 
 ## About Me 
 - I’m a **CE**.
