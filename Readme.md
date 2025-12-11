@@ -3,10 +3,11 @@
 </div>
 
 ## About Me 
-- I’m a **CE**.
+- I’m a **Computer Engineer**.
 - Ux/Ui Design | Data-Sci.
 - Learning **Python**, **MongoDB**, and **NodeJS**.
 - How to reach me: minecf.174@gmail.com
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaweewat-sawangrungrueangkit-068288389/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dn_kaw_/)
